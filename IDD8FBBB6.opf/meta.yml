@@ -1,0 +1,51 @@
+id: IDD8FBBB6
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:48:47.607589'
+last_modified: '2022-06-15T20:48:47.607595'
+parser: null
+source_metadata:
+  title: Auspiciousness Series
+  language: pt
+  description: 'A selection of texts on the theme of auspiciousness (maṅgalam; bkra
+    shis) including verses of auspiciousness (maṅgalagāthā) and prayers:'
+  volume:
+    fE43E:
+      title: A Prayer for Auspiciousness
+      base_file: fE43E.txt
+      order: 1
+      parent: Verses of Auspiciousness
+    f4646:
+      title: The Auspicious Verses of the Seven Successive Buddhas
+      base_file: f4646.txt
+      order: 2
+      parent: Verses of Auspiciousness
+    fEAA1:
+      title: Verses of Auspiciousness
+      base_file: fEAA1.txt
+      order: 3
+      parent: Verses of Auspiciousness
+    f5CC1:
+      title: Verses of Auspiciousness
+      base_file: f5CC1.txt
+      order: 4
+      parent: Verses of Auspiciousness
+    f5152:
+      title: 'Virtuous Adornment for All the World: Verses to Bring Auspiciousness
+        and Wellbeing'
+      base_file: f5152.txt
+      order: 5
+      parent: Verses of Auspiciousness
+    fAD90:
+      title: Verses of the Eight Noble Auspicious Ones
+      base_file: fAD90.txt
+      order: 6
+      parent: Verses of Auspiciousness
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
